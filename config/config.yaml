@@ -1,0 +1,6 @@
+train:
+  batch_size: 64
+  epochs: 20
+  lr: 3e-5
+  gamma: 0.7
+  seed: 42
